@@ -1,0 +1,42 @@
+#top {
+	background-image: url(http://hdfons.com/wp-content/uploads/2013/08/houston_skyline-wallpaper.jpg);
+	min-height: 400px;
+	background-size: cover;
+	background-position: center;
+	margin: 0;
+}
+
+.article {
+	position: absolute;
+	background-position: center;
+}
+
+.left {
+	position: absolute;
+	background-position: left;
+	margin-right: 60%;
+	margin-left: 8%;
+	padding-right: 100px;
+}
+
+
+.right {
+	position: relative;
+	background-position: right;
+	margin-left: 40%;
+	margin-right: 0%;
+}
+
+.small {
+	position: fixed;
+	display: inline-block;
+	bottom: 0;
+	right: 0;
+	width: 200px;
+	height: 200px;
+	padding-right: 0px;
+	background-color: white;
+	margin-left: 90%; 
+	margin-right: 0;
+	
+}
